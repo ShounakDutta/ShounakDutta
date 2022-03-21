@@ -1,4 +1,4 @@
-                                                              Hi 👋  I’m @ShounakDutta
+                                           Hi 👋  I’m @ShounakDutta
 - 👀 I’m interested in Developing new Features and explore new technology stuffs
 - 🌱 I’m currently learning AWS Developer Associate.
 - 💞️ I’m looking to collaborate on ...
