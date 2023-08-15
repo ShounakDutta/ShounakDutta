@@ -1,4 +1,4 @@
-<img>https://cdnl.iconscout.com/lottie/premium/preview-watermark/male-programmer-8928572-7322310.mp4?h=700</img>
+<img>https://i.gifer.com/5eKX.gif</img>
 <h1 align="center">Hi 👋, I'm Shounak Dutta</h1>
 <h3 align="center">A meta-cognitive kind of individual, an ambivert features</h3>
 
