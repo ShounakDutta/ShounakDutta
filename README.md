@@ -1,4 +1,4 @@
-<img>https://i.gifer.com/5eKX.gif</img>
+<img>https://i.gifer.com/5eKX.gif
 <h1 align="center">Hi 👋, I'm Shounak Dutta</h1>
 <h3 align="center">A meta-cognitive kind of individual, an ambivert features</h3>
 
