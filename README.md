@@ -3,13 +3,15 @@
 <h3 align="center">A meta-cognitive kind of individual, an ambivert features</h3>
 <img align="right" width= "400" border-radius= "50%" src= "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
+- 💻 I’m currently serving as a **Consultant in Capgemini India 🇮🇳**
+  
 - 🔭 I’m currently working on **Deep Learning Image Recognition**
 
 - 🌱 I’m currently learning **Tensorflow, Keras, AWS**
 
 - 👯 I’m looking to collaborate on **Machine Learning, Deep Learning & AI projects**
 
-- 🤝 I’m looking for help with **Intermediate Machine Learning models**
+- 🤝 I’m looking for help with **Creating Intermediate Machine Learning models**
 
 - 📫 How to reach me **shounakdutta007@gmail.com**
 
@@ -18,6 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shounak-dutta-86b63bbb/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=13930&format=png" alt="https://www.linkedin.com/in/shounak-dutta-86b63bbb/" height="40" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/just_shounak/" target="blank"><img align="center" src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="https://www.instagram.com/just_shounak/" height="40" width="40" /></a>
+</p>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
